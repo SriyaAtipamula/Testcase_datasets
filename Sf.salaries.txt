@@ -1,0 +1,16 @@
+DataSet:
+Sf_Salaries.csv
+
+Question::
+1.Read the dataset from sys to environment
+2.Find the information ?
+3.What is the average on BasePay ?
+4.What is the highest amount of OvertimePay in dataset ?
+5.What is the Job Tile of JOSEPH DRISCOLL?
+6.How much does JOSEPH DRISCOLL make(Including Benefits)?
+7.What is the name of highest paid person(Including benefits)?
+8.What is the name of lowest paid person(Including benefits)?
+9.What was the average(mean) BasePay of all employess per year ? (2011 - 2014) ?
+10.How many Unique Job Tiles are there ?
+11.What are the top 5 most common jobs ?
+
